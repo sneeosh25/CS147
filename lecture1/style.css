@@ -4,5 +4,29 @@ h2 {
 }
 
 body{
-	background-color: blue;	
+	background-color: white;	
+}
+
+#bio{
+	color: red;	
+}
+
+.newC{
+	color: yellow;	
+}
+
+.opacity{
+	opacity: 0.8;	
+}
+
+.button{
+	background:#333;
+			width:100px;
+			color:#fff;
+			height:20px;
+		     -moz-border-radius: 20px;
+		    -webkit-border-radius: 20px;
+		    -khtml-border-radius: 20px;
+		    border-radius: 20px;
+		    text-align:center;	
 }
